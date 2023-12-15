@@ -2,13 +2,18 @@
 
 <p align="center">
    I'm currently working with my own company : )
-  <img src="https://d1drfx3idpovxr.cloudfront.net/fragmenta2.png" />
+</p>
+<p align="center">
+   <img width="500" src="https://d1drfx3idpovxr.cloudfront.net/fragmentapng.png" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Nicolas' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NickRMD&show_icons=true&theme=tokyonight" />
-  </a>
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img alt="Nicolas' GitHub stats" src="https://github-readme-stats.vercel.app/api?username=NickRMD&show_icons=true&theme=tokyonight" />
+   </a>
+</p>
+<p align="center">
+   My GitHub stats
 </p>
 
 ### Languages I'm currently using:
