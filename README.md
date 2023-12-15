@@ -1,5 +1,7 @@
 ## Hi! I'm Nicolas, a full stack programmer!
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickRMD&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ### Languages I'm currently using:
 - Rust
 - Go
@@ -16,17 +18,10 @@
 - Zig
 - Java
 
-<!--
-**NickRMD/NickRMD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can reach me on [my email](mailto:nicolas@fragmenta.org)
+or on [my Discord](https://discordapp.com/users/481579171924017164).
 
-Here are some ideas to get you started:
+Currently I'm working on my [own VM project](https://github.com/Fragmenta-Company/SquidVM)!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And launched a challenge on [this repo (Portuguese)](https://github.com/NickRMD/Challenge-dos-Malocas)
+and in [this repo (English)](https://github.com/NickRMD/Market-Witchcraft).
