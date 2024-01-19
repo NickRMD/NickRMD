@@ -4,7 +4,7 @@
    I'm currently working with my own company : )
 </p>
 <p align="center">
-   <img width="500" src="https://d1drfx3idpovxr.cloudfront.net/fragmentapng.png" />
+   <img width="500" src="https://d1qrumake2q7xa.cloudfront.net/fragmentapng.png" />
 </p>
 
 <p align="center">
