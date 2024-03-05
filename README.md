@@ -1,7 +1,7 @@
 ## Hi! I'm Nicolas, a full stack programmer!
 
 <p align="center">
-   I'm currently working with my own company : )
+   I'm currently working in my own company : )
 </p>
 <p align="center">
    <img width="500" src="https://d1qrumake2q7xa.cloudfront.net/fragmentapng.png" />
