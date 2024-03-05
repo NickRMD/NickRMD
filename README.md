@@ -21,6 +21,7 @@
 - Go
 - Javascript
 - Typescript
+- [Squid](https://github.com/Fragmenta-Company/SquidVM)
 
 ### Languages I've used in the past:
 - C
